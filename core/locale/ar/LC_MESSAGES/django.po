@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-01 16:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: blog/admin.py:14 blog/admin.py:15
+msgid "Content Moderation Area"
+msgstr ""
+
+#: blog/admin.py:30 blog/admin.py:31
+msgid "Content Creation Area"
+msgstr ""
+
+#: blog/admin.py:50 organization/admin.py:32
+msgid "Marquer les articles sélectionnés comme publiés"
+msgstr ""
+
+#: blog/admin.py:54 organization/admin.py:36
+#, python-format
+msgid "%d article a été marqué avec succès comme publié."
+msgid_plural "%d articles ont été marqués comme publiés avec succès."
+msgstr[0] ""
+msgstr[1] ""
+
+#: blog/admin.py:59 organization/admin.py:41
+msgid "Marquer les articles sélectionnés comme brouillons"
+msgstr ""
+
+#: blog/admin.py:63 organization/admin.py:45
+#, python-format
+msgid "%d article a été marqué avec succès comme brouillon."
+msgid_plural "%d les articles ont été marqués avec succès comme brouillon."
+msgstr[0] ""
+msgstr[1] ""
+
+#: blog/admin.py:112 blog/admin.py:113
+msgid "Admin Area"
+msgstr ""
+
+#: blog/models.py:15 organization/models.py:18
+msgid "Draft"
+msgstr ""
+
+#: blog/models.py:16 organization/models.py:19
+msgid "Published"
+msgstr ""
+
+#: blog/models.py:23
+msgid "Titre"
+msgstr ""
+
+#: blog/models.py:24 organization/models.py:27
+msgid "Slug"
+msgstr ""
+
+#: blog/models.py:25 organization/models.py:53
+msgid "Extrait"
+msgstr ""
+
+#: blog/models.py:26 organization/models.py:54
+msgid "Contenu"
+msgstr ""
+
+#: blog/models.py:27
+msgid "Date de publication"
+msgstr ""
+
+#: blog/models.py:28
+msgid "Dernière modification"
+msgstr ""
+
+#: blog/models.py:32
+msgid "Statut du poste"
+msgstr ""
+
+#: blog/models.py:36
+msgid "Blog Post"
+msgstr ""
+
+#: blog/models.py:37
+msgid "Blog Posts"
+msgstr ""
+
+#: core/settings.py:135
+msgid "English"
+msgstr ""
+
+#: core/settings.py:136
+msgid "French"
+msgstr ""
+
+#: core/settings.py:137
+msgid "Arabic"
+msgstr ""
+
+#: organization/admin.py:11
+msgid "Cette section traite des informations de base sur votre organisation"
+msgstr ""
+
+#: organization/admin.py:12
+msgid "Cette section concerne les coordonnées de votre organisation"
+msgstr ""
+
+#: organization/admin.py:13
+msgid ""
+"Cette section porte sur le contenu de la page de profil de votre "
+"organisation."
+msgstr ""
+
+#: organization/admin.py:14
+msgid "Votre article est-il publié ou à l'état de projet ?"
+msgstr ""
+
+#: organization/admin.py:58
+msgid "Details"
+msgstr ""
+
+#: organization/admin.py:62
+msgid "Content"
+msgstr ""
+
+#: organization/admin.py:67
+msgid "Contact Details"
+msgstr ""
+
+#: organization/models.py:26
+msgid "Nom de l'organisation"
+msgstr ""
+
+#: organization/models.py:28
+msgid "Date de création"
+msgstr ""
+
+#: organization/models.py:48
+msgid "Adresse de la rue"
+msgstr ""
+
+#: organization/models.py:49
+msgid "Adresse e-mail"
+msgstr ""
+
+#: organization/models.py:50
+msgid "Numéro de fax"
+msgstr ""
+
+#: organization/models.py:51
+msgid "Numéro de téléphone"
+msgstr ""
+
+#: organization/models.py:59
+msgid "statut de l'organisation"
+msgstr ""
+
+#: organization/models.py:63
+msgid "Organization"
+msgstr ""
+
+#: organization/models.py:64
+msgid "Organizations"
+msgstr ""
